@@ -144,4 +144,4 @@ This analysis reflects historical booking data only. It does not account for ext
 
 **Peter Obikpe (Pheonix)**
 Data Analyst | IT Instructor
-[Portfolio](https://peter-portfolio11.vercel.app) · [LinkedIn](https://www.linkedin.com/in/peter-obikpe) · [Email](obikpepeter808@gmail.com)
+[Portfolio](https://peter-portfolio11.vercel.app) · [LinkedIn](https://www.linkedin.com/in/peterobikpe) · [Email](obikpepeter808@gmail.com)
